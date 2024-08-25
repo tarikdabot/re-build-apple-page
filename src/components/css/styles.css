@@ -1,0 +1,79 @@
+/* General Reset */
+* {
+	margin: 0;
+	padding: 0;
+}
+img {
+	max-width: 100%;
+}
+body {
+	font-size: 20px; 
+	font-family: 'Montserrat', sans-serif;
+}
+/* Second Highlight Section */
+
+
+/* Third Highlight Section */
+
+/*Fourth Highlight Section */
+
+
+/* Fivth Highlight Section
+.fifth-heghlight-wrapper {
+	width: 950px;
+	display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background: #FFFFFF;
+	padding: 22px 140px;
+}
+.fifth-heghlight-wrapper .left-side-wrapper {
+	background-image:  url("../images/home/apple-tv-background.jpg"); 
+}
+.fifth-heghlight-wrapper .right-side-wrapper {
+	background-image:  url("../images/home/air-pods.jpg"); 
+	color: #fff; 
+	background-size: initial;
+	background-color: #000;
+	background-position: bottom;
+}
+.logo-wrapper {
+	font-size: 40px;
+	font-weight: bold;
+}
+.tvshow-logo-wraper {
+	padding: 180px 0 200px;
+}
+.watch-more-wrapper a {
+	text-decoration: none;
+	font-size: 0.85em;
+}
+.watch-more-wrapper a:after {
+  font-family: "FontAwesome";
+  font-weight: 900;
+  content: "\f144";
+  padding-left: 15px;
+}
+
+/*Sixth Highlight Section */
+/* .sixth-heghlight-wrapper {
+	width: 950px;
+	display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  background: #fff;
+	padding: 22px 140px;
+}
+.sixth-heghlight-wrapper .left-side-wrapper {
+	background-image:  url("../images/home/macbook-pro.jpg"); 
+	background-size: initial;
+	background-color: #fafafa;
+	background-position: bottom;
+}
+.sixth-heghlight-wrapper .right-side-wrapper {
+	background-image:  url("../images/home/new-ipad.jpg"); 
+}
+.product-title-small {
+	font-weight: 700;
+	font-size: 45px;
+}  */
