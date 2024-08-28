@@ -1,0 +1,78 @@
+/* Header styling */
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin: 0;
+    padding: 10px 0;
+    border-bottom: 2px solid #0073e6; /* Optional: underline the header */
+    display: inline-block;
+    text-transform: uppercase; /* Optional: Make text uppercase */
+}
+
+/* Container for the list of videos */
+.videos-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    grid-gap: 20px; /* Space between grid items */
+    max-width: 1200px;
+    margin: 0 auto; /* Center the grid */
+    padding: 20px;
+}
+
+/* Container for each individual video */
+.video-container {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    background-color: #fff; /* Optional: Background color for video container */
+    transition: transform 0.3s ease;
+}
+
+.video-container:hover {
+    transform: scale(1.05); /* Slightly enlarge on hover */
+}
+
+/* Video thumbnail */
+.video-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-bottom: 2px solid #ccc; /* Optional: Border below the thumbnail */
+}
+
+/* Wrapper for video information */
+.videoinfo-wrapper {
+    padding: 10px;
+    text-align: center;
+}
+
+/* Video title styling */
+.videoinfo-wrapper a {
+    color: #333; /* Text color */
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+}
+
+.videoinfo-wrapper a:hover {
+    color: #0073e6; /* Change color on hover */
+}
+
+/* Video description styling */
+.video-description {
+    padding: 10px;
+    font-size: 14px;
+    color: #555; /* Text color for description */
+    line-height: 1.6;
+    text-align: justify;
+    background-color: #f9f9f9; /* Light background color for description */
+    border-top: 1px solid #ddd; /* Optional: Border above the description */
+}

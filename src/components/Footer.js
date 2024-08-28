@@ -11,10 +11,12 @@ const Footer = () => {
 			<Footertlink />
 				<div className="my-apple-wrapper"> 
 					More ways to shop: <a href="#">Find an Apple Store</a> or <a href="#">other retailer</a> near you. Or call 1-800-MY-APPLE.
+					<h3>Re-build by Tarik Dabot</h3>
 				</div>
 				<div className="copyright-wrapper">
 					<div className="copyright">
 						Copyright © 2024 Apple Inc. All rights reserved.
+						
 					</div>
 					<div className="footer-links-terms">
 						<ul>

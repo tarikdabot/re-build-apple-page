@@ -1,7 +1,7 @@
 import React from 'react';
 import '../components/header/bootstrap.css';
 
-const Nav = (props) => {
+const Navs = (props) => {
   return (
     <ul>
       <li className={props.className}>
@@ -14,4 +14,4 @@ const Nav = (props) => {
   );				
 }
 
-export default Nav
+export default Navs

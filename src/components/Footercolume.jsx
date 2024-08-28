@@ -10,19 +10,19 @@ const Footercolume = (props) => {
           <a href={props.url}>{props.link}</a>
         </li>
         <li>
-          <a href="#">iPad</a>
+          <a href="/ipad">iPad</a>
         </li>
         <li>
-          <a href="#">iPhone</a>
+          <a href="/Iphone">iPhone</a>
         </li>
         <li>
-          <a href="#">Watch</a>
+          <a href="/watch">Watch</a>
         </li>
         <li>
-          <a href="#">TV</a>
+          <a href="/tv">TV</a>
         </li>
         <li>
-          <a href="#">Music</a>
+          <a href="/Music">Music</a>
         </li>
         <li>
           <a href="#">AirPods</a>

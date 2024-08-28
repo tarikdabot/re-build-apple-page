@@ -16,13 +16,13 @@ const Footertlink = () => {
         <h3>Services</h3>
         <ul>
           <li>
-            <a href="#">Apple Music</a>
+            <a href="/Music">Apple Music</a>
           </li>
           <li>
-            <a href="#">Apple News+</a>
+            <a href="/">Apple News+</a>
           </li>
           <li>
-            <a href="#">Apple TV+</a>
+            <a href="/tV">Apple TV+</a>
           </li>
           <li>
             <a href="#">Apple Arcade</a>
