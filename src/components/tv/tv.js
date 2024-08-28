@@ -7,7 +7,7 @@ function TVPage() {
         <h1>TV</h1>
         <p>The future of television is here.</p>
         <img
-          src="https://www.apple.com/v/tv/home/c/images/meta/apple_tv__d27mln82wy62_og.png"
+          src="https://www.apple.com/v/tv-home/n/images/overview/homepod__eam53jjm772a_large_2x.jpg"
           alt="Apple TV"
         />
       </section>
